@@ -11,7 +11,9 @@ function cambiarColorDeFondo() {
     document.body.style.backgroundColor = colorAleatorio;
 }
 
-const cambioColor = document.getElementById("cambioColor");
-
+/*De esta manera tambien se puede hacer pasando el elemento con su id
+const cambioColor = document.getElementById("miboton2");
+cambioColor.addEventListener("click",cambiarColorDeFondo);
+*/ 
 
 
