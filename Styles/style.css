@@ -43,4 +43,9 @@ a{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Sombra alrededor del video */
 }
 
+.imagen {
+    width: 150px;
+    height: 100px;
+    
+}
 
