@@ -44,8 +44,25 @@ a{
 }
 
 .imagen {
-    width: 150px;
-    height: 100px;
+    width: 550px;
+    height: 350px;
     
 }
 
+.mi-boton1 {
+    background-color: #bf00ff; /* Cambia el color de fondo a azul */
+    color: #fff; /* Cambia el color del texto a blanco */
+    padding: 10px 20px; /* Agrega relleno al botón */
+    border: none; /* Quita el borde del botón */
+    cursor: pointer; /* Cambia el cursor al puntero al pasar el mouse sobre el botón */
+    font-family: cursive;
+}
+
+.mi-boton {
+    background-color: #00d9ff; /* Cambia el color de fondo a azul */
+    color: #fff; /* Cambia el color del texto a blanco */
+    padding: 10px 20px; /* Agrega relleno al botón */
+    border: none; /* Quita el borde del botón */
+    cursor: pointer; /* Cambia el cursor al puntero al pasar el mouse sobre el botón */
+    font-family: cursive;
+}
